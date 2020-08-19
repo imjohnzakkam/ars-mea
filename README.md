@@ -1,2 +1,2 @@
 
-This is page is a hosting for [my webiste](https://johnzakkam.codes).
+This is page is a hosting for [my webiste](http://johnzakkam.codes).
